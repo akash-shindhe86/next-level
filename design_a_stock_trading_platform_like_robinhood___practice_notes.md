@@ -1,5 +1,8 @@
 # Design a Stock Trading Platform Like Robinhood - Practice Notes
 
+
+![alt text](http://url/to/img.png)
+
 ### Design a Stock Trading Platform Like Robinhood Guided Practice - November 29, 2025
 
 <!-- EXCALIDRAW_PRACTICE practiceId="cmil1s1e101ty08ad9c1jny75" -->
